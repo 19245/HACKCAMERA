@@ -8,7 +8,7 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m  DW SQUAD             \e[0m\e[1;77m OFFICAL                       \e[0m\n"
+figlet DW SQUAD SPY CAMERA
 
 printf " \e[1;77m DW SQUAD SECURITY\e[0m \n"
 
